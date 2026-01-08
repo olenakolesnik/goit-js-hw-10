@@ -1,0 +1,9 @@
+.form {
+   max-width: 250px; 
+   padding-left: 15px;
+}
+.input-delay {
+    width: 230px;   
+    height: 28px;
+    margin-bottom: 8px;
+}
