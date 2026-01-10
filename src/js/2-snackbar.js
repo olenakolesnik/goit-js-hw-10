@@ -41,3 +41,4 @@ const value = delay;
         }, delay);
     });
 }
+
