@@ -42,6 +42,7 @@ flatpickr(input, options);
 
 function startTimer() {
     startBtn.disabled = true;
+    input.disabled = true;
 
     intervalId = setInterval(() => {
         const diff = userSelectedDate - Date.now();
